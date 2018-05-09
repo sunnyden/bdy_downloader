@@ -1,4 +1,4 @@
-# Baidu Cloud Driver Downloader
+# Baidu Cloud Drive Downloader
 
 ## Usage
 
